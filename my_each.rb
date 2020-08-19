@@ -1,6 +1,6 @@
 def my_each(collection)
   i = 0
-  while
+  while < = i
   yield(collection)
   # code here
 end
